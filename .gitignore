@@ -1,0 +1,14 @@
+node_modules
+/node_modules
+logs
+.env
+.vscode
+.scannerwork
+coverage
+role-setup.ts
+influxdb.ts
+/dist
+dist
+
+
+200 response 

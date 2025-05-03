@@ -1,0 +1,16 @@
+phone_number,email,name,password,addressDetails,profilePic,gstId,language,document
+1234567890,seller1@example.com,Seller 1,password1,Address 1,profile1.jpg,GST123456,English;Spanish,document1.pdf;document2.pdf
+9876543210,seller2@example.com,Seller 2,password2,Address 2,profile2.jpg,GST654321,French;German,document3.pdf
+5555555555,seller3@example.com,Seller 3,password3,Address 3,profile3.jpg,GST987654,English,document4.pdf;document5.pdf
+8888888888,seller4@example.com,Seller 4,password4,Address 4,profile4.jpg,GST456789,Spanish,document6.pdf
+9999999999,seller5@example.com,Seller 5,password5,Address 5,profile5.jpg,GST321654,German;Italian,document7.pdf;document8.pdf
+1111111111,seller6@example.com,Seller 6,password6,Address 6,profile6.jpg,GST876543,English,French;document9.pdf
+2222222222,seller7@example.com,Seller 7,password7,Address 7,profile7.jpg,GST543216,Spanish,document10.pdf
+3333333333,seller8@example.com,Seller 8,password8,Address 8,profile8.jpg,GST654987,English;German,document11.pdf;document12.pdf
+4444444444,seller9@example.com,Seller 9,password9,Address 9,profile9.jpg,GST321987,French,document13.pdf
+6666666666,seller10@example.com,Seller 10,password10,Address 10,profile10.jpg,GST789654,Spanish,document14.pdf;document15.pdf
+7777777777,seller11@example.com,Seller 11,password11,Address 11,profile11.jpg,GST987123,English;Italian,document16.pdf
+5555555555,seller12@example.com,Seller 12,password12,Address 12,profile12.jpg,GST456321,German,document17.pdf
+9999999999,seller13@example.com,Seller 13,password13,Address 13,profile13.jpg,GST789321,French,document18.pdf
+8888888888,seller14@example.com,Seller 14,password14,Address 14,profile14.jpg,GST654123,English,document19.pdf
+2222222222,seller15@example.com,Seller 15,password15,Address 15,profile15.jpg,GST321456,Spanish,document20.pdf
